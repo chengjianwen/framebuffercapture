@@ -1,0 +1,2 @@
+# framebuffercapture
+通过FrameBuffer获取屏幕，保存为JPEG图片
